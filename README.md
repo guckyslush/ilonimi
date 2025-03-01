@@ -1,5 +1,7 @@
 # Spellbook
 
+// gucky: im not readin this essay lol
+
 Sick of typing every letter serially like a schmuck? You've come to the right place. Words at once is how we think about our language, so it's how we should output it digitally as well.
 
 QWERTY+ chord dictionary based on https://www.autohotkey.com/board/topic/6426-chording-keyboard-strings-sent-at-key-combinations/ Worth noting I use a split ortholinear keyboard, which makes barring letters very convenient.
