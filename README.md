@@ -1,6 +1,7 @@
 # Spellbook
 
 // gucky: im not readin this essay lol
+// https://docs.google.com/spreadsheets/d/1sKswJVhmaXY_yCRE484UgH3EvgUA_1CiA4n48bS45XQ/edit?usp=sharing
 
 Sick of typing every letter serially like a schmuck? You've come to the right place. Words at once is how we think about our language, so it's how we should output it digitally as well.
 
