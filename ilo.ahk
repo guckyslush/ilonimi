@@ -5,7 +5,7 @@
 ;   Original scripts
 ;       Chording: Laszlo (https://www.autohotkey.com/board/topic/6426-chording-keyboard-strings-sent-at-key-combinations/)
 ;       Toggling: Boiler (https://www.autohotkey.com/boards/viewtopic.php?t=80473)
-;		Doublepress: Gev (https://www.autohotkey.com/boards/viewtopic.php?t=30039)
+;	Doublepress: Gev (https://www.autohotkey.com/boards/viewtopic.php?t=30039)
 ;
 ;
 ; This script is quite volatile. It's essentially a reskin of
