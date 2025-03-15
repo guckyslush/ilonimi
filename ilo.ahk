@@ -33,7 +33,7 @@
 
 
 
-StringCaseSense On
+StringCaseSense Off
 Process Priority,,High
 #MaxHotkeysPerInterval 999
 #UseHook
