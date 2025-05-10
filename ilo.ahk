@@ -645,6 +645,10 @@ Action:
 			 Send {U+300D}
 			ToggleNiColon := false
 		} ; to
+   Else IfEqual keys,32, {
+			 Send +{Enter}
+			ToggleNiColon := false
+		} ; shift + enter
    Else IfEqual keys,3, {
 			 Send {U+FE01}
 			ToggleNiColon := false
